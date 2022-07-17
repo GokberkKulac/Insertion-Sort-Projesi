@@ -1,5 +1,6 @@
 # Insertion-Sort-Projesi
 Patika.dev İnsertion Sort Projesi çözümü.
+#https://app.patika.dev/gokberkkulac
 
 Aşağıda görülen dizi kendi içinde dağınık bir şekilde bulunmaktadır. İnsertion Sort kullanarak sıralama yapacağız. 
 
